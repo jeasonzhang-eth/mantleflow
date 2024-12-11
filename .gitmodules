@@ -1,0 +1,3 @@
+[submodule "backend/hemera-indexer"]
+	path = backend/hemera-indexer
+	url = https://github.com/jeasonzhang-eth/hemera-indexer.git
